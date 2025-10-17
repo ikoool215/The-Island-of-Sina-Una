@@ -54,5 +54,27 @@
 				]
 			}
 		]
-	]
+	],
+	"_meta": {
+		"sources": [
+			{
+				"json": "TISU",
+				"full": "The Island of Sina Una",
+				"abbreviation": "TiSU",
+				"color": "92b233",
+				"authors": [
+					"ikoool"
+				],
+				"convertedBy": [
+					"ikoool"
+				],
+				"dateReleased": "2025-10-18",
+				"version": "1.0",
+			}
+		],
+		"edition": "classic",
+		"status": "ready",
+		"dateAdded": 1729973698,
+		"dateLastModified": 1757175607
+	}
 }
