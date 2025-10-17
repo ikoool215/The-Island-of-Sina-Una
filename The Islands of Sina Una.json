@@ -2098,3 +2098,61 @@
 		}
 	]
 }
+{
+	"siteVersion": "2.13.0",
+	"undefined": [
+		[
+			{
+				"type": "section",
+				"name": "Small Canoe",
+				"entries": [
+					"{@i Light Travel, Baroto (10 ft. by 5 ft.)}",
+					"{@b Creature Capacity:} 2 crew, 2 passengers",
+					"{@b Cargo Capacity:} 0.25 tons",
+					"{@b Armor Class:} 10",
+					"{@b Hit Points:} 100 (damage threshold 10)",
+					"{@b Speed} 20 ft. / 30 ft.",
+					{
+						"type": "table",
+						"colLabels": [
+							"STR",
+							"DEX",
+							"CON",
+							"INT",
+							"WIS",
+							"CHA"
+						],
+						"colStyles": [
+							"text-center col-2",
+							"text-center col-2",
+							"text-center col-2",
+							"text-center col-2",
+							"text-center col-2",
+							"text-center col-2"
+						],
+						"rows": [
+							[
+								"11 (+0)",
+								"8 (−1)",
+								"11 (+0)",
+								"0 (−5)",
+								"0 (−5)",
+								"0 (−5)"
+							]
+						]
+					},
+					"{@b Damage Immunities:} poison, psychic",
+					"{@b Condition Immunities:} blinded, charmed, deafened, exhaustion, frightened, incapacitated, paralyzed, petrified, poisoned, prone, stunned, unconscious",
+					{
+						"type": "entries",
+						"name": "Action Stations",
+						"entries": [
+							"On its turn, the rowboat can take the move action below. It can't take this action if it has no crew.",
+							"{@b {@i Control and Movement: Oars (Requires at least 1 Crew).}} Move up to its speed, with one 90-degree turn. Without oars, the rowboat's speed is 0."
+						]
+					}
+				]
+			}
+		]
+	]
+}
